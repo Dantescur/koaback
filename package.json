@@ -1,0 +1,20 @@
+{
+  "name": "koaback",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.7.1+sha512.faf344af2d6ca65c4c5c8c2224ea77a81a5e8859cbc4e06b1511ddce2f0151512431dd19e6aff31f2c6a8f5f2aced9bd2273e1fed7dd4de1868984059d2c4247",
+  "dependencies": {
+    "@koa/router": "^13.0.0",
+    "cheerio": "^1.0.0",
+    "koa": "^2.15.3",
+    "node-fetch": "^2.7.0"
+  }
+}
